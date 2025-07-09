@@ -1,0 +1,1 @@
+Dem Ordner entsprechend, sollte das von Skript erstellte Ergebnis aussehen.
